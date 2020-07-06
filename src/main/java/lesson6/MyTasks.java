@@ -1,5 +1,6 @@
 package lesson6;
 
+
 public class MyTasks {
 
     public int[] doArrayFirst(int[] ar) {
